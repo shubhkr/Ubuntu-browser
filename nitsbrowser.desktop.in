@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Nitsbrowser
+_Comment=Nitsbrowser application
+Categories=GNOME;Utility;
+Exec=nitsbrowser
+Icon=nitsbrowser
+Terminal=false
+Type=Application
